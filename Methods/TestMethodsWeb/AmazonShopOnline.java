@@ -1,4 +1,4 @@
-//Civica QA Test -- Created by Zahra Hassan 
+//Civica Test -- Created by Zahra Hassan 
 
 package TestMethodsWeb;
 
