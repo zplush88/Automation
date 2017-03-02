@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 public class AmazonSharedCapabilities {
 	
 	//SET PROJECT
-	public static String project = "Amazon";
+	public static String project = "Immerse";
 
 	//WAIT
 	public static int PageTimeout = 20;
